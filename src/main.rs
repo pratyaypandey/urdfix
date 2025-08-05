@@ -2,6 +2,7 @@ use std::process;
 
 mod cli;
 mod commands;
+mod utils;
 
 use cli::{Cli, Commands};
 
