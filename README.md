@@ -1,6 +1,6 @@
 # 🦾 URDFix
 
-A fast, Rust-powered CLI tool for cleaning, formatting, and repairing URDF (Unified Robot Description Format) files.
+A blazingly fast, Rust-powered CLI tool for cleaning, formatting, and repairing URDF (Unified Robot Description Format) files.
 
 ## What is URDFix?
 
